@@ -1,0 +1,8 @@
+include ':dialog'
+include ':notificationapp'
+include ':toastapp'
+include ':intentfilter'
+include ':multiactivity'
+include ':app:lifecycleactivity'
+include ':app'
+rootProject.name = "ru.mirea.danshin.practice2"
